@@ -155,37 +155,6 @@ Plateforme web pour l'administration, application pour le personnel et applicati
 
 ---
 
-## 📈 Statistiques GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firasabed13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firasabed13&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🔥 Série de contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firasabed13&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🏆 Trophées
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=firasabed13&theme=tokyonight&no-frame=true&row=1" />
-</p>
-
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/firasabed13/firasabed13/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-## 📊 Activité
-
-[![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=firasabed13&theme=tokyo-night&hide_border=true)](https://github.com/firasabed13)
-
----
-
 ## 🌍 Focus actuel
 
 ```yaml
@@ -230,7 +199,5 @@ Plateforme web pour l'administration, application pour le personnel et applicati
 <div align="center">
 
 ### 🚀 Toujours en train de construire quelque chose
-
-<img src="https://komarev.com/ghpvc/?username=firasabed13&style=for-the-badge&color=blue" />
 
 </div>
